@@ -17,7 +17,7 @@
     --pios-glow-hue:        180;
     --pios-glow-intensity:  1;
     --pios-spacing:         1;
-    --pios-accent-hue:      0;
+    --pios-accent-hue:      1;
     --pios-title-text:      "piOS v2.1.01p";
 
     --crt-stripe:   block;
@@ -26,7 +26,7 @@
 }
 
 .theme-dark {
-    --pios-background-color:    #000000;
+    --pios-background-color:    #999999a;
     --pios-bright-color:        #FFFFFF;
     --pios-middle-color:        #D3D3D3;
     --pios-dim-color:           #808080;
